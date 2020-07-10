@@ -1,3 +1,2 @@
 # Licae
-小型项目
-git xixiixixxixixiixix
+CVE漏洞库逐步构建
